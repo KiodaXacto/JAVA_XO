@@ -1,0 +1,6 @@
+projectKey=JeuxXo
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/JeuxXo
+ceTaskId=AWDRaWQZwkm1R3c55Urx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWDRaWQZwkm1R3c55Urx
